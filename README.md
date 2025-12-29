@@ -83,10 +83,10 @@
 ## 🤝 Let’s Connect  
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/emmanuel-kairithia-559aa7387/">
     <img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Kairithia-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-email@manukaidev.secure04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
   </a>
 </p>
