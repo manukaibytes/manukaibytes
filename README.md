@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
+  <img src="https://github.com/manukaibytes.png" alt="Profile Picture" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emmanuel (aka manukaibytes)</h1>
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/manukaibytes">
-    <img src="https://komarev.com/ghpvc/?username=manukaibytes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=manukaibytes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 ## 🚀 About Me  
 
 - 💻 **Web Developer** with 1+ year experience  
-- 🤖 Learning **Machine Learning & AI** (Decision Trees, Supervised Learning)  
+- 🤖 Currently learning **Machine Learning & AI** (Decision Trees, Supervised Learning)  
 - ⚙️ Passionate about **Automation, AI applications & SaaS products**  
 - 🌍 Aspiring **remote developer & tech entrepreneur**  
 - 🎯 Goal: Build impactful tech solutions  
@@ -26,9 +26,17 @@
 
 ## 🛠️ Tech Stack  
 
-| Programming | Web | Data & AI | Tools |
-|------------|-----|-----------|-------|
-| ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) | ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Django](https://skillicons.dev/icons?i=django) ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Python](https://skillicons.dev/icons?i=python) ![NumPy](https://skillicons.dev/icons?i=numpy) ![Pandas](https://skillicons.dev/icons?i=pandas) ![scikit-learn](https://skillicons.dev/icons?i=sklearn) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) |
+### 💻 Programming Languages  
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+
+### 🌐 Web Development  
+<img src="https://skillicons.dev/icons?i=react,tailwind,django,nodejs" />
+
+### 📊 Data, AI & Automation  
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy" />
+
+### 🗄️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postgres" />
 
 ---
 
@@ -46,7 +54,7 @@
 ### 🔹 Web & Systems  
 - 🎨 **Express Inventory App (Art-focused)**  
 - 📬 **Django + React Contact Form API**  
-  *Full validation, error handling & UX feedback.*  
+  *Full validation, error handling & UX feedback.*
 
 *(More projects coming — stay tuned 🚀)*
 
@@ -54,17 +62,15 @@
 
 ## 📊 GitHub Stats & Highlights  
 
-| Metric | Value |
-|--------|-------|
-| Followers | ![Followers](https://img.shields.io/github/followers/manukaibytes?label=Followers&style=for-the-badge&logo=github) |
-| Public Repos | ![Repos](https://img.shields.io/github/repos/manukaibytes?label=Public%20Repos&style=for-the-badge&logo=github) |
-| Top Language | ![Top Languages](https://img.shields.io/github/languages/top/manukaibytes?style=for-the-badge&logo=github) |
-| Commits per Month | ![Commits](https://img.shields.io/github/commit-activity/m/manukaibytes?style=for-the-badge&logo=github) |
-| Last Commit | ![Last Commit](https://img.shields.io/github/last-commit/manukaibytes?style=for-the-badge&logo=github) |
+<img src="https://img.shields.io/github/followers/manukaibytes?label=Followers&style=for-the-badge&logo=github" /> 
+<img src="https://img.shields.io/github/repos/manukaibytes?label=Public%20Repos&style=for-the-badge&logo=github" /> 
+<img src="https://img.shields.io/github/languages/top/manukaibytes?style=for-the-badge&logo=github" /> 
+<img src="https://img.shields.io/github/commit-activity/m/manukaibytes?style=for-the-badge&logo=github" /> 
+<img src="https://img.shields.io/github/last-commit/manukaibytes?style=for-the-badge&logo=github" />
 
 ---
 
-## 📈 Skill Progress
+## 📈 Skill Progress  
 
 | Skill | Progress |
 |-------|---------|
@@ -74,8 +80,6 @@
 | React | ![React](https://progress-bar.dev/60) |
 | Django | ![Django](https://progress-bar.dev/50) |
 | Machine Learning | ![ML](https://progress-bar.dev/40) |
-
-> You can customize the progress values as you advance in each skill.
 
 ---
 
@@ -95,4 +99,3 @@
 ## ✨ Motto  
 
 > **“Learn fast. Build smart. Ship often.”**
-
