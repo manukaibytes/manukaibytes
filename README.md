@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer | AI & Automation Enthusiast | Future Founder</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/manukaibytes">
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
