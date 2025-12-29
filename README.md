@@ -60,29 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats & Highlights  
-
-<img src="https://img.shields.io/github/followers/manukaibytes?label=Followers&style=for-the-badge&logo=github" /> 
-<img src="https://img.shields.io/github/repos/manukaibytes?label=Public%20Repos&style=for-the-badge&logo=github" /> 
-<img src="https://img.shields.io/github/languages/top/manukaibytes?style=for-the-badge&logo=github" /> 
-<img src="https://img.shields.io/github/commit-activity/m/manukaibytes?style=for-the-badge&logo=github" /> 
-<img src="https://img.shields.io/github/last-commit/manukaibytes?style=for-the-badge&logo=github" />
-
----
-
-## 📈 Skill Progress  
-
-| Skill | Progress |
-|-------|---------|
-| Python | ![Python](https://progress-bar.dev/80) |
-| JavaScript | ![JS](https://progress-bar.dev/70) |
-| HTML/CSS | ![HTML/CSS](https://progress-bar.dev/90) |
-| React | ![React](https://progress-bar.dev/60) |
-| Django | ![Django](https://progress-bar.dev/50) |
-| Machine Learning | ![ML](https://progress-bar.dev/40) |
-
----
-
 ## 🤝 Let’s Connect  
 
 <p align="center">
