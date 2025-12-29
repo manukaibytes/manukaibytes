@@ -64,19 +64,24 @@
 
 ---
 
-## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manukaibytes&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats & Highlights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manukaibytes&theme=tokyonight" />
-</p>
+<!-- Followers Badge -->
+![Followers](https://img.shields.io/github/followers/manukaibytes?label=Followers&style=flat&logo=github)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manukaibytes&layout=compact&theme=tokyonight" />
-</p>
+<!-- Public Repos Badge -->
+![Repos](https://img.shields.io/github/repos/manukaibytes?label=Public%20Repos&style=flat&logo=github)
+
+<!-- Languages Used -->
+![Top Languages](https://img.shields.io/github/languages/top/manukaibytes?style=flat&logo=github)
+
+<!-- Commits -->
+![Commits](https://img.shields.io/github/commit-activity/m/manukaibytes?style=flat&logo=github)
+
+<!-- Last Commit -->
+![Last Commit](https://img.shields.io/github/last-commit/manukaibytes?style=flat&logo=github)
+
 
 ---
 
